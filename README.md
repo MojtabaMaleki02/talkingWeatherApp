@@ -1,0 +1,2 @@
+# talkingWeatherApp
+This is a talking Weather application, has been made by java in android studio. On the top, there are three buttons, Get city ID, Weather by ID, and Weather by name. Behind the button, the user can enter the city's name and directly get the Weather of today and five next days, or he can also search for the ID of the city and enter the ID to get the Weather. The app, inasmuch as showing the six days Weather information, will also say today Weather.
